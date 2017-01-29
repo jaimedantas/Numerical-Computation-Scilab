@@ -1,2 +1,2 @@
-# Numerical-Computation-Scilab
-Several Numerical Computational Methods in Scilb (2013)
+# Numerical Computation with Scilab
+You can find here several numerical computational methods developed in Scilb. 
